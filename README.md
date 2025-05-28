@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bluescope33
-- 👀 I’m interested becoming a software engineer
+- 👀 I’m interested in ML and becoming a software engineer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking for a mentor to help me in my journey
 - ⚡ Fun fact: love Japan and have visted 
