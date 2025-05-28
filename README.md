@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bluescope33
-- 👀 I’m interested in understanding IT 
-- 🌱 I’m currently learning project managment
-- 💞️ I’m looking to collaborate on learning tech terms
+- 👀 I’m interested becoming a software engineer
+- 🌱 I’m currently learning python
+- 💞️ I’m looking for a mentor to help me in my journey
 - ⚡ Fun fact: love Japan and have visted 
 
 <!---
